@@ -10,7 +10,7 @@ AIRE is a decentralized Web4 ecosystem built to restore economic power to users 
 - **Tokenomics:** The economic model behind the $AIRE token.
 
 ### 💾 Download the Whitepaper
-- [AIRE Whitepaper (PDF)](./WHITEPAPER_OFICIAL_AIRE.pdf)
+- [AIRE Whitepaper (PDF)](https://drive.google.com/file/d/1A_7kAeH7pAUs2l_USPsFL6td3m9W1339/view?usp=sharing)
 
 ### 🌐 Learn More
 Visit our website for updates and additional resources: [AIRE GPT](http://www.airegpt.com)
